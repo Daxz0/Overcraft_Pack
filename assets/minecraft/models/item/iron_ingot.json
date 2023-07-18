@@ -1,0 +1,22 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_ingot"
+    },
+    "overrides": [
+
+        {
+            "predicate": {
+                "custom_model_data": 220
+            },
+                "model": "item/mc_model/small_health_pack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221
+            },
+                "model": "item/mc_model/large_health_pack"
+        }
+
+    ]
+}

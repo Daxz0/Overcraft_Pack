@@ -1,0 +1,49 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/copper_ingot"
+    },
+    "overrides": [
+
+
+        {
+            "predicate": {
+                "custom_model_data": 9212
+            },
+                "model": "item/mc_model/dynamite"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9213
+            },
+                "model": "item/mc_model/coach_gun"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9214
+            },
+            "model": "item/mc_model/bob_icon"
+        },
+
+
+        {
+            "predicate": {
+                "custom_model_data": 9216
+            },
+                "model": "item/mc_model/tracer_blink_icon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9217
+            },
+                "model": "item/mc_model/tracer_recall_icon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9218
+            },
+                "model": "item/mc_model/tracer_pulse_bomb"
+        }
+        
+    ]
+}
