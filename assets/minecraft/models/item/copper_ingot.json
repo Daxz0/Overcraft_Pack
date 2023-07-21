@@ -43,6 +43,12 @@
                 "custom_model_data": 9218
             },
                 "model": "item/mc_model/tracer_pulse_bomb"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9220
+            },
+                "model": "item/mc_model/bastion_grenade"
         }
 
         

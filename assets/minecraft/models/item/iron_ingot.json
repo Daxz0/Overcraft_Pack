@@ -16,6 +16,12 @@
                 "custom_model_data": 221
             },
                 "model": "item/mc_model/large_health_pack"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222
+            },
+                "model": "item/mc_model/anti_third_person"
         }
 
     ]
