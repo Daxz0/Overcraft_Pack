@@ -76,7 +76,14 @@
                 "custom_model_data": 9412
             },
                 "model": "item/mc_model/sojourn_disruptor_icon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9413
+            },
+                "model": "item/mc_model/sojourn_disruptor"
         }
+
 
         
     ]
