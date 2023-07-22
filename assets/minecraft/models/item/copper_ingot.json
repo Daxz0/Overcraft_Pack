@@ -44,12 +44,46 @@
             },
                 "model": "item/mc_model/tracer_pulse_bomb"
         },
+
         {
             "predicate": {
                 "custom_model_data": 9220
             },
                 "model": "item/mc_model/bastion_grenade"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9221
+            },
+                "model": "item/mc_model/bastion_artillery_icon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9222
+            },
+                "model": "item/mc_model/bastion_reconfigure_icon"
+        },
+
+
+        {
+            "predicate": {
+                "custom_model_data": 9411
+            },
+                "model": "item/mc_model/sojourn_powerslide_icon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9412
+            },
+                "model": "item/mc_model/sojourn_disruptor_icon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9413
+            },
+                "model": "item/mc_model/sojourn_disruptor"
         }
+
 
         
     ]

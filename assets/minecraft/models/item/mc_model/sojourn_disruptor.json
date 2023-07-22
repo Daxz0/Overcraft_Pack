@@ -1,8 +1,8 @@
 {
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/sojourn_disruptor",
-		"particle": "item/sojourn_disruptor"
+		"0": "item/sojourn_disruptor_texture",
+		"particle": "item/sojourn_disruptor_texture"
 	},
 	"elements": [
 		{
