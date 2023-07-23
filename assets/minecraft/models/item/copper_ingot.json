@@ -55,31 +55,31 @@
             "predicate": {
                 "custom_model_data": 9221
             },
-                "model": "item/mc_model/bastion_artillery_icon"
+                "model": "item/mc_model/bastion_reconfigure_icon"
         },
         {
             "predicate": {
                 "custom_model_data": 9222
             },
-                "model": "item/mc_model/bastion_reconfigure_icon"
+                "model": "item/mc_model/bastion_artillery_icon"
         },
 
 
         {
             "predicate": {
-                "custom_model_data": 9411
+                "custom_model_data": 9224
             },
                 "model": "item/mc_model/sojourn_powerslide_icon"
         },
         {
             "predicate": {
-                "custom_model_data": 9412
+                "custom_model_data": 9225
             },
                 "model": "item/mc_model/sojourn_disruptor_icon"
         },
         {
             "predicate": {
-                "custom_model_data": 9413
+                "custom_model_data": 9226
             },
                 "model": "item/mc_model/sojourn_disruptor"
         }
