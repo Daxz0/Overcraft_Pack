@@ -82,6 +82,12 @@
                 "custom_model_data": 9226
             },
                 "model": "item/mc_model/sojourn_disruptor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9228
+            },
+                "model": "item/mc_model/brigitte_shield"
         }
 
 
