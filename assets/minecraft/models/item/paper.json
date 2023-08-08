@@ -1,0 +1,30 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+
+        {
+            "predicate": {
+                "custom_model_data": 9231
+            },
+                "model": "item/mc_model/ofuda"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 9232
+            },
+                "model": "item/mc_model/ofuda_hand"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 9233
+            },
+                "model": "item/mc_model/kiriko_suzu"
+        }
+
+    ]
+}
