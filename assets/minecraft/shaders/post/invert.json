@@ -1,0 +1,30 @@
+{
+    "targets": [
+        "void"
+    ],
+    "passes": [
+        {
+            "name": "blit",
+            "intarget": "minecraft:main",
+            "outtarget": "void"
+        },
+        {
+            "name": "blur",
+            "intarget": "void",
+            "outtarget": "minecraft:main",
+            "uniforms": [
+                {
+                    "name": "BlurDir",
+                    "values": [ 0.0, 1.0 ]
+                },
+                {
+                    "name": "Radius",
+                    "values": [ 10.0 ]
+                }
+            ]
+        }
+        
+    ]
+ }
+ 
+ 
