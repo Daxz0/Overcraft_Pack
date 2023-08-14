@@ -24,6 +24,13 @@
                 "custom_model_data": 9233
             },
                 "model": "item/mc_model/kiriko_suzu"
+        },
+
+        {
+            "predicate": {
+                "custom_model_data": 9234
+            },
+                "model": "item/mc_model/ofuda_cast_hand"
         }
 
     ]
