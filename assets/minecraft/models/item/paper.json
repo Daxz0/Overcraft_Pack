@@ -18,18 +18,6 @@
             },
                 "model": "item/mc_model/ofuda_hand"
         },
-        {
-            "predicate": {
-                "custom_model_data": 9238
-            },
-                "model": "item/mc_model/ofuda_hand_left"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 9239
-            },
-                "model": "item/mc_model/ofuda_hand_right"
-        },
 
         {
             "predicate": {
