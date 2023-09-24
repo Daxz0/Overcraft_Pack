@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stick"
+    },
+    "overrides": [
+
+        {
+            "predicate": {
+                "custom_model_data": 2200
+            },
+                "model": "item/mc_model/kitsune_rush_struct"
+        }
+
+    ]
+}
